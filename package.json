@@ -1,0 +1,18 @@
+{
+  "name": "wallet-creator",
+  "version": "1.0.0",
+  "description": "Small utility to create multiple wallets with ease",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web3",
+    "cryptos"
+  ],
+  "author": "Slim Fish <SlimFish32@protonmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^1.7.1"
+  }
+}
