@@ -1,6 +1,6 @@
 {
   "name": "@slimfish/wallet-creator",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Small utility to create multiple wallets with ease",
   "author": "Slim Fish <SlimFish32@protonmail.com>",
   "license": "MIT",
